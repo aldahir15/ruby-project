@@ -4,9 +4,9 @@
 # to test your code with rspec.
 
 def hello
-  return "oh hey there"
+  "Hello!"
 end
 
 def greet(someone)
-  return "Hello, #{soneone}!"
+  "Hello, #{someone}!"
 end
